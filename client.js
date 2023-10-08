@@ -25,7 +25,7 @@ target = document.querySelector("#modified-string-3");
 // concatenate with another string, render in html //
 target.innerHTML = initialString + ". Or is it?";
 
-// number methods //
+// number methods rendered in after section//
 
 // select target element //
 target = document.querySelector("#modified-number-1");
